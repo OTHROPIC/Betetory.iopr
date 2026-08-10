@@ -1,2 +1,2 @@
 # Betetory.iopr
-TK
+GLPRTK
